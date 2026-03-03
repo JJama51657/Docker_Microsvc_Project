@@ -35,16 +35,14 @@
     <li><strong>docker-compose.yml (First Half)</strong></li>
     <img width="297" height="762" alt="Screenshot 2026-03-03 143050" src="https://github.com/user-attachments/assets/715776fc-b818-4457-9f35-5176512d47ed" />
     <li><strong>docker-compose.yml (Second Half)</strong></li>
-    <img width="605" height="603" alt="Screenshot 2026-03-03 143221" src="https://github.com/user-attachments/assets/a05a4653-27ed-4814-bcb9-4586e600661c" />
+    <img width="300" height="300" alt="Screenshot 2026-03-03 143221" src="https://github.com/user-attachments/assets/a05a4653-27ed-4814-bcb9-4586e600661c" />
     <li><strong>Dockerfile.yml (FrontEnd Angular Dockerfile)</strong></li>
-    <img width="799" height="359" alt="Screenshot 2026-03-03 143842" src="https://github.com/user-attachments/assets/c2d132dd-f096-41be-83e8-670fcd3228b4" />
+    <img width="400" height="175" alt="Screenshot 2026-03-03 143842" src="https://github.com/user-attachments/assets/c2d132dd-f096-41be-83e8-670fcd3228b4" />
     <li><strong>Dockerfile.yml (Books API Dockerfile)</strong></li>
-    <img width="996" height="382" alt="image" src="https://github.com/user-attachments/assets/3511a9f6-7298-460a-ab5f-a2287c6b773a" />
+    <img width="495" height="190" alt="image" src="https://github.com/user-attachments/assets/3511a9f6-7298-460a-ab5f-a2287c6b773a" />
     <li><strong>Dockerfile.yml (Mart API Dockerfile)</strong></li>
-    <img width="568" height="292" alt="Screenshot 2026-03-03 143649" src="https://github.com/user-attachments/assets/ded885d5-4c1d-498a-a01a-63c3ca64b879" />
+    <img width="275" height="140" alt="Screenshot 2026-03-03 143649" src="https://github.com/user-attachments/assets/ded885d5-4c1d-498a-a01a-63c3ca64b879" />
     <li><strong>Official Docker images were used for nginx and Databases (MongoDB, MYSQL)</strong></li>
-    
-
     
 </ul>
 
