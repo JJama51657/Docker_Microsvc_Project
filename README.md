@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>eMart Microservices Architecture</title>
-</head>
+
 <body>
 
 <h1>eMart Microservices Architecture</h1>
